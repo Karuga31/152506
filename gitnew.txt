@@ -1,0 +1,2 @@
+This is my first github file 
+Add gitnew.txt file
